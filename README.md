@@ -8,8 +8,8 @@ subjects :-
 - Blockchain and applications
 - Biometry
 - Steganography and Watermarking
--Network Security
--Side channels attacks
--Auditing techniques
--Security of Industrial Systems
+- Network Security
+- Side channels attacks
+- Auditing techniques
+- Security of Industrial Systems
 
